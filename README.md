@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Knight Shrestha.
+I am a beginner programmer learning to make android apps
 <!--
 **Death-Knight-552/Death-Knight-552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
