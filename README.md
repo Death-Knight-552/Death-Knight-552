@@ -1,18 +1,11 @@
-### Hi there 👋
 
-I am Knight Shrestha.
-I am a beginner programmer learning to make android apps
-<!--
-**Death-Knight-552/Death-Knight-552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#Good Morning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Knight Shrestha. I am from Nepal. I am a beginner learning to make apps that cater to my personal interest. 
+
+##Projects
+
+[Light Novels](https://github.com/Death-Knight-552/123_baka.git) : It is the first project I actually put effort into. This is a light novel
+
+database type app. You can add details manually or add using [Anilist](https://anilist.co/). You can add download links to the app but it is illegal. Currently, I am trying to add authentication and cloud backup features. 
