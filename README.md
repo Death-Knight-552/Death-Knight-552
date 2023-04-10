@@ -24,3 +24,6 @@ I am Knight Shrestha. I am from Nepal. I am a beginner learning to make apps tha
 ||| vercel: https://vercel.com/knightshrestha2056/lndb|
 ||| deployed: https://lndb.vercel.app/| 
 |5| Light Novel| github: https://github.com/Death-Knight-552/light-novel-app| android|
+|6| nextra | giyhub: https://github.com/Death-Knight-552/light-novels-with-nextra}|
+||| vercel : https://vercel.com/knightshrestha2056/light-novels-with-nextra |
+||| deployed: https://light-novels-with-nextra.vercel.app/ |
