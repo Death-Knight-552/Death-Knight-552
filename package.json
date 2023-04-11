@@ -1,0 +1,23 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "A repository that holds my projects",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Death-Knight-552/Death-Knight-552.git"
+  },
+  "author": "Knight Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Death-Knight-552/Death-Knight-552/issues"
+  },
+  "homepage": "https://github.com/Death-Knight-552/Death-Knight-552#readme",
+  "dependencies": {
+    "puppeteer": "^19.8.5"
+  }
+}
